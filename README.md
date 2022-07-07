@@ -1,2 +1,3 @@
-# vvgformat.github.io
-Website for VVG image format 
+# Versatile Vector Graphics (VVG) 
+
+ 
